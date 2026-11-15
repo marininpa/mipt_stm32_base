@@ -2,3 +2,4 @@
 - Исходники как есть [**src**](/src/hw2/)
 - Архив исходников [**src.zip**](./src.zip)
 - Отчёт в формате md [**report.md**](./report.md)
+- Отчёт в формате pdf [**report.pdf**](./report.pdf)
